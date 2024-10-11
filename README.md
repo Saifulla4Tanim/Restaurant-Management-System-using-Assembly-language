@@ -1,0 +1,2 @@
+# Restaurant-Management-System-using-Assembly-language
+A **Restaurant Management System** in Assembly language manages essential tasks like order processing, billing, table management, and inventory tracking. Written in low-level code, it offers high performance and direct hardware interaction, though it requires detailed memory handling and system resource management due to Assembly's complexity.
